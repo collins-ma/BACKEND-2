@@ -1,6 +1,7 @@
 const allowedOrigins=[
    
-    'https://schools-com.onrender.com'
+    'https://schools-com.onrender.com',
+    'http://localhost:3000'
       
    
 ]
